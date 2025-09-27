@@ -4,7 +4,6 @@ You sent
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiyaislamsamiya&label=Profile%20views&color=0e75b6&style=flat" alt="sadiyaislamsamiya" /> </p>
 
-- 🔭 I’m currently study on *PencilBox Training Institute*
 
 - 🌱 I’m currently learning *frontend development*
 
